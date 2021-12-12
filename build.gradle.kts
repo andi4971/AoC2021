@@ -17,3 +17,6 @@ tasks {
         gradleVersion = "7.3"
     }
 }
+dependencies {
+   implementation("org.jgrapht:jgrapht-core:1.5.1")
+}
